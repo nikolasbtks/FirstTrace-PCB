@@ -20,6 +20,9 @@ This project demonstrates a custom PCB containing the STM32F103C8T6 microcontrol
 4. Headers:
    - SWD headers for debugging and programming
    - GPIO headers for external connections
+ 
+5. External Crystal Clock:
+   - 16 MHz clock speed
 
 ## Schematic and PCB Design
 
