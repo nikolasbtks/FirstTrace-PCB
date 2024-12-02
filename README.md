@@ -24,9 +24,13 @@ This project demonstrates a custom 2-layer PCB containing the STM32F103C8T6 micr
 5. External Crystal Clock:
    - 16 MHz clock speed
 
+## Disclaimer
+
+This project is currently in **testing phase**. If you choose to manufacture and use the board, you do so at your own risk. The author is not responsible for any damage to equipment, or other issues that may arise from its use.
+
 ## Schematic and PCB Design
 
-The board was designed using KiCad. Files from the PCB design can be found in the hardware folder. This folder includes:
+The board was designed using KiCad. Files from the PCB design can be found in the hardware folder for board manufacture. This folder includes:
 
 - PCB Schematic 
 - PCB Layout
