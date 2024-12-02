@@ -30,7 +30,7 @@ This project is currently in **testing phase**. The provided documentation is sh
 
 ## Schematic and PCB Design
 
-The board was designed using KiCad. Files from the PCB design can be found in the hardware folder for board manufacture. This folder includes:
+The board was designed using KiCad. Files from the PCB design can be found in the **hardware** folder for board manufacture. This folder includes:
 
 - PCB Schematic 
 - PCB Layout
