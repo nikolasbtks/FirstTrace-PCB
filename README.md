@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates a custom PCB containing the STM32F103C8T6 microcontroller. This board can be used for embedded development using GPIO and SWD Headers.
+This project demonstrates a custom 2-layer PCB containing the STM32F103C8T6 microcontroller. This board can be used for embedded development using GPIO and SWD Headers.
 
 ## Components
 
