@@ -26,7 +26,7 @@ This project demonstrates a custom 2-layer PCB containing the STM32F103C8T6 micr
 
 ## Disclaimer
 
-This project is currently in **testing phase**. The provided documentation are shared for prototyping and learning purposes. If you choose to manufacture and use the board, please proceed with care, as it has not yet been fully validated.
+This project is currently in **testing phase**. The provided documentation is shared for prototyping and learning purposes. If you choose to manufacture and use the board, please proceed with care, as it has not yet been fully validated.
 
 ## Schematic and PCB Design
 
